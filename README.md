@@ -21,7 +21,7 @@ numbers and the operators can be symbols or text.
 - @return the value of the operation
 
 ## NOTES
-- This java code is provided for example purposes and left in the spirit it was written for, ie, a coding test for a job
-- There is unchecked test that I missed and I leave it to the reader to discover
+- This java code is provided for example purposes only and left in the spirit it was written for, ie, a coding test for a job
+- There is an unchecked test that I missed and I leave it to the reader to discover
 - I hope this example helps you in your coding journey
 - Enjoy the regular expression that consumes the command line arguments
